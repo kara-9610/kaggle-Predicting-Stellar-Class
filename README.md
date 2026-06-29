@@ -52,6 +52,6 @@ $`Balanced Accuracy = (TP/(TP+FN)+TF/(TF+FP))`$
 |galaxy_population|銀河群の種類？|
 
 ## Log
-- 20260625
+### 20260625
 アルゴリズムをXGBoostに変更してなんの前処理もなしで実行。
 Publicが0.95422。アンサンブル手法すごいな。
